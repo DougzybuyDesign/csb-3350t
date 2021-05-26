@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://dougzybuydesign.github.io/csb-3350t/static/css/main.7aea32ec.chunk.css",
+    "main.js": "https://dougzybuydesign.github.io/csb-3350t/static/js/main.ad0e4a20.chunk.js",
+    "main.js.map": "https://dougzybuydesign.github.io/csb-3350t/static/js/main.ad0e4a20.chunk.js.map",
+    "runtime-main.js": "https://dougzybuydesign.github.io/csb-3350t/static/js/runtime-main.b4bc5839.js",
+    "runtime-main.js.map": "https://dougzybuydesign.github.io/csb-3350t/static/js/runtime-main.b4bc5839.js.map",
+    "static/css/2.38ca0958.chunk.css": "https://dougzybuydesign.github.io/csb-3350t/static/css/2.38ca0958.chunk.css",
+    "static/js/2.10464611.chunk.js": "https://dougzybuydesign.github.io/csb-3350t/static/js/2.10464611.chunk.js",
+    "static/js/2.10464611.chunk.js.map": "https://dougzybuydesign.github.io/csb-3350t/static/js/2.10464611.chunk.js.map",
+    "index.html": "https://dougzybuydesign.github.io/csb-3350t/index.html",
+    "precache-manifest.f265632bc26d0548de0ff1ce79981a26.js": "https://dougzybuydesign.github.io/csb-3350t/precache-manifest.f265632bc26d0548de0ff1ce79981a26.js",
+    "service-worker.js": "https://dougzybuydesign.github.io/csb-3350t/service-worker.js",
+    "static/css/2.38ca0958.chunk.css.map": "https://dougzybuydesign.github.io/csb-3350t/static/css/2.38ca0958.chunk.css.map",
+    "static/css/main.7aea32ec.chunk.css.map": "https://dougzybuydesign.github.io/csb-3350t/static/css/main.7aea32ec.chunk.css.map",
+    "static/js/2.10464611.chunk.js.LICENSE.txt": "https://dougzybuydesign.github.io/csb-3350t/static/js/2.10464611.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4bc5839.js",
+    "static/css/2.38ca0958.chunk.css",
+    "static/js/2.10464611.chunk.js",
+    "static/css/main.7aea32ec.chunk.css",
+    "static/js/main.ad0e4a20.chunk.js"
+  ]
+}
